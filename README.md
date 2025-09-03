@@ -1,5 +1,7 @@
 # BrushEdit
 
+> **📢 Please check out our latest DiT-based image customization project [IC-Custom](https://github.com/TencentARC/IC-Custom), which provides powerful ID-Consistent editing capabilities!**
+
 😃 This repository contains the implementation of "BrushEdit: All-In-One Image Inpainting and Editing".
 
 Keywords: Image Inpainting, Image Generation, Image Editing, Diffusion Models, MLLM Agent, Instruction-basd Editing
